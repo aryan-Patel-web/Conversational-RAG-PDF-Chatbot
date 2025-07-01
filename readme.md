@@ -1,4 +1,3 @@
-
 # Conversational-RAG-PDF-Chatbot
 
 🗂️ **Conversational-RAG-PDF-Chatbot** is a Streamlit app that lets you upload PDFs and query their content in natural language.  
